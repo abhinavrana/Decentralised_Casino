@@ -1,0 +1,25 @@
+		* {
+			font-family: Arial, sans-serif;
+		}
+		
+		body {
+			background-color: #000000;
+		}
+		
+		#wrapper {
+			width: 1500px;
+			text-align: left;
+			/*background-image: url("wood.jpg");*/
+		}
+		
+		#button-holder {
+			width: 200px;
+			margin: auto;
+		}
+		
+		#roulette-button {
+			width: 200px;
+			height: 75px;
+			font-size: 1.25em;
+			font-weight: bold;
+		}
